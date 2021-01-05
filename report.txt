@@ -1,0 +1,23 @@
+
+Skapade repo
+La till filerna main.py, report txt och questions.txt
+
+Pushade till main
+
+Skapade branch important_changes_git_b_
+
+Flyttade från main till important_changes_git_b_
+
+Satte upstream för important_changes_git_b_
+
+git push --set-upstream origin important_changes_git_b_
+
+Gjorde ändringarna i main.py från 100 till 50
+
+git add . för att stagea ändringarna
+git commit -m "change loop to 50 times"
+git push
+
+Skapa en pull request 
+
+https://repl.it/talk/learn/Replit-Git-Tutorial/23331/
